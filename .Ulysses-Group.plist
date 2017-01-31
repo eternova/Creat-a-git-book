@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>01. New Repo.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507562717.77476799</real>
+				<key>version</key>
+				<dict>
+					<key>772048ea372b9af9e1bc19fbaabf537d910b26c47c1b11388d0c52968196e909</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>02. cloneRepo.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507563689.18715203</real>
+				<key>version</key>
+				<dict>
+					<key>772048ea372b9af9e1bc19fbaabf537d910b26c47c1b11388d0c52968196e909</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
+			<key>README.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507559316.97001398</real>
+				<key>version</key>
+				<dict>
+					<key>772048ea372b9af9e1bc19fbaabf537d910b26c47c1b11388d0c52968196e909</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>summary.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507559350.53852499</real>
+				<key>version</key>
+				<dict>
+					<key>772048ea372b9af9e1bc19fbaabf537d910b26c47c1b11388d0c52968196e909</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>02. cloneRepo.md</string>
+		</array>
+		<array>
+			<string>01. New Repo.md</string>
+		</array>
+		<array>
+			<string>summary.md</string>
+		</array>
+		<array>
+			<string>README.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>772048ea372b9af9e1bc19fbaabf537d910b26c47c1b11388d0c52968196e909</key>
+			<integer>12</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
