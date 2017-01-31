@@ -1,2 +1,2 @@
-# Creat-a-git-book
-Guide and test sample to create a gitbook
+# 如何构建一个知识专题
+用Github+Gitbook构建一个知识专题
