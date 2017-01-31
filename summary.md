@@ -1,6 +1,6 @@
-[01. 新建文档]（/Users/wangsheng/Creat-a-git-book/01. New Repo.md）
-02. 新建本地Repo
-03. 配置编辑器
-04. 新建标配文件
-05. 书写文章
-06. 生成主题
+- [01. 新建文档]（https://github.com/eternova/Creat-a-git-book/blob/master/01.%20New%20Repo.md）
+- 02. 新建本地Repo
+- 03. 配置编辑器
+- 04. 新建标配文件
+- 05. 书写文章
+- 06. 生成主题
