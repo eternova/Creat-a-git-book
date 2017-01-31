@@ -1,4 +1,4 @@
-- [01. 新建文档](https://github.com/eternova/Creat-a-git-book/blob/master/01.%20New%20Repo.md)
+- [01. 新建文档](01. New Repo.md)
 - [02. 新建本地Repo](https://github.com/eternova/Creat-a-git-book/blob/master/02.%20cloneRepo.md)
 - 03. 配置编辑器
 - 04. 新建标配文件
